@@ -5,11 +5,8 @@ $(document).ready(function () {
 
     var base_path = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/266205/";
 
-    $.getJSON(SF)
-
     var SF = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/266205/SanFrancisco.json"
 
-    console.log(fun);
 
     var cities = [
         "San_Francisco",
